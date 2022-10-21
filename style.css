@@ -1,0 +1,16 @@
+
+
+
+
+
+body{
+    background-color: rgb(72, 113, 167);
+    color: azure;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
